@@ -14,6 +14,11 @@
 		B0694EA32B619C740013DEE2 /* TechnicalChallenge.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = B0694EA12B619C740013DEE2 /* TechnicalChallenge.xcdatamodeld */; };
 		B0694EA52B619C760013DEE2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B0694EA42B619C760013DEE2 /* Assets.xcassets */; };
 		B0694EA82B619C760013DEE2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0694EA62B619C760013DEE2 /* LaunchScreen.storyboard */; };
+		B0694EB12B619D6B0013DEE2 /* Alamofire in Frameworks */ = {isa = PBXBuildFile; productRef = B0694EB02B619D6B0013DEE2 /* Alamofire */; };
+		B0694EB42B619D9D0013DEE2 /* IQKeyboardManagerSwift in Frameworks */ = {isa = PBXBuildFile; productRef = B0694EB32B619D9D0013DEE2 /* IQKeyboardManagerSwift */; };
+		B0694EB72B619DDA0013DEE2 /* Reachability in Frameworks */ = {isa = PBXBuildFile; productRef = B0694EB62B619DDA0013DEE2 /* Reachability */; };
+		B0694EBA2B619DE80013DEE2 /* SDWebImage in Frameworks */ = {isa = PBXBuildFile; productRef = B0694EB92B619DE80013DEE2 /* SDWebImage */; };
+		B0694EBC2B619DE80013DEE2 /* SDWebImageMapKit in Frameworks */ = {isa = PBXBuildFile; productRef = B0694EBB2B619DE80013DEE2 /* SDWebImageMapKit */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -33,6 +38,11 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B0694EB12B619D6B0013DEE2 /* Alamofire in Frameworks */,
+				B0694EBC2B619DE80013DEE2 /* SDWebImageMapKit in Frameworks */,
+				B0694EB72B619DDA0013DEE2 /* Reachability in Frameworks */,
+				B0694EBA2B619DE80013DEE2 /* SDWebImage in Frameworks */,
+				B0694EB42B619D9D0013DEE2 /* IQKeyboardManagerSwift in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -86,6 +96,13 @@
 			dependencies = (
 			);
 			name = TechnicalChallenge;
+			packageProductDependencies = (
+				B0694EB02B619D6B0013DEE2 /* Alamofire */,
+				B0694EB32B619D9D0013DEE2 /* IQKeyboardManagerSwift */,
+				B0694EB62B619DDA0013DEE2 /* Reachability */,
+				B0694EB92B619DE80013DEE2 /* SDWebImage */,
+				B0694EBB2B619DE80013DEE2 /* SDWebImageMapKit */,
+			);
 			productName = TechnicalChallenge;
 			productReference = B0694E952B619C740013DEE2 /* TechnicalChallenge.app */;
 			productType = "com.apple.product-type.application";
@@ -114,6 +131,12 @@
 				Base,
 			);
 			mainGroup = B0694E8C2B619C740013DEE2;
+			packageReferences = (
+				B0694EAF2B619D6B0013DEE2 /* XCRemoteSwiftPackageReference "Alamofire" */,
+				B0694EB22B619D9D0013DEE2 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */,
+				B0694EB52B619DDA0013DEE2 /* XCRemoteSwiftPackageReference "Reachability" */,
+				B0694EB82B619DE80013DEE2 /* XCRemoteSwiftPackageReference "SDWebImage" */,
+			);
 			productRefGroup = B0694E962B619C740013DEE2 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -367,6 +390,69 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		B0694EAF2B619D6B0013DEE2 /* XCRemoteSwiftPackageReference "Alamofire" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/Alamofire/Alamofire.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.8.1;
+			};
+		};
+		B0694EB22B619D9D0013DEE2 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/hackiftekhar/IQKeyboardManager.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 7.0.0;
+			};
+		};
+		B0694EB52B619DDA0013DEE2 /* XCRemoteSwiftPackageReference "Reachability" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/ashleymills/Reachability.swift";
+			requirement = {
+				branch = master;
+				kind = branch;
+			};
+		};
+		B0694EB82B619DE80013DEE2 /* XCRemoteSwiftPackageReference "SDWebImage" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/SDWebImage/SDWebImage.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 5.18.10;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		B0694EB02B619D6B0013DEE2 /* Alamofire */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B0694EAF2B619D6B0013DEE2 /* XCRemoteSwiftPackageReference "Alamofire" */;
+			productName = Alamofire;
+		};
+		B0694EB32B619D9D0013DEE2 /* IQKeyboardManagerSwift */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B0694EB22B619D9D0013DEE2 /* XCRemoteSwiftPackageReference "IQKeyboardManager" */;
+			productName = IQKeyboardManagerSwift;
+		};
+		B0694EB62B619DDA0013DEE2 /* Reachability */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B0694EB52B619DDA0013DEE2 /* XCRemoteSwiftPackageReference "Reachability" */;
+			productName = Reachability;
+		};
+		B0694EB92B619DE80013DEE2 /* SDWebImage */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B0694EB82B619DE80013DEE2 /* XCRemoteSwiftPackageReference "SDWebImage" */;
+			productName = SDWebImage;
+		};
+		B0694EBB2B619DE80013DEE2 /* SDWebImageMapKit */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = B0694EB82B619DE80013DEE2 /* XCRemoteSwiftPackageReference "SDWebImage" */;
+			productName = SDWebImageMapKit;
+		};
+/* End XCSwiftPackageProductDependency section */
 
 /* Begin XCVersionGroup section */
 		B0694EA12B619C740013DEE2 /* TechnicalChallenge.xcdatamodeld */ = {
