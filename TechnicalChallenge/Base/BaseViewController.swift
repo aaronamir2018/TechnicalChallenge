@@ -16,9 +16,7 @@ protocol BaseViewControllerProtocol: AnyObject {
 }
 
 class BaseViewController: UIViewController {
-    
-    // MARK: - Private Variable
-    
+        
     private let networkReachability = NetworkReachabilityManager()!
     private var skip: Int = 0
     
@@ -78,8 +76,6 @@ extension BaseViewController: BaseViewControllerProtocol {
         SVProgressHUD.dismiss(withDelay: 1.5)
     }
 }
-
-// MARK: - Private
 
 private extension BaseViewController {
     @objc func keyboardWillShowNotification(_ notification: Notification) {

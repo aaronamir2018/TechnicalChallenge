@@ -20,5 +20,1237 @@
             landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B32BD389-ECF3-4315-B55A-B3519816AE2D"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "18989C02-533F-46FE-BB40-5B763CEEDD88"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BA02573B-272B-4BD6-B68B-C414D218F863"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7934E1DF-171C-445D-9217-80CE7CBEBFD9"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "application(_:didFinishLaunchingWithOptions:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D557675-E6FC-4EB5-A3AC-1FBAF86EB103"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9DCCB220-B22C-43D7-9E2B-9263ACFF08C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "updateMovieSuccess()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F6D9B8B5-7FA7-4C7B-B690-4C5900A72682"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "50"
+            endingLineNumber = "50"
+            landmarkName = "reloadTableViewData(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12679A1C-AEC3-4473-B75B-12C20A575A5E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "getUpcomingMovies()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12679A1C-AEC3-4473-B75B-12C20A575A5E - a8daac1325294179"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Result&lt;TechnicalChallenge.TMDBConfiguration, TechnicalChallenge.ServiceError&gt;) -&gt; () in TechnicalChallenge.UpcomingMoviesInteractor.getTMDBConfiguration() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "1062">
+               </Location>
+               <Location
+                  uuid = "12679A1C-AEC3-4473-B75B-12C20A575A5E - ea58c1dd529a6326"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesInteractor.getUpcomingMovies() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E7DC66C4-36CC-47EE-9D26-E57182A17BF3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7BA52CB-1EE6-4810-B37C-5AC3EE0912DE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesNetworkWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "getAPIConfiguration(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48168DAC-62E4-4930-B95F-95BB251758C6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesNetworkWorker.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "getListErrorProducts(completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "798AD109-184E-45B8-A7B9-46969A19A41C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesRouter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ViewToRouterUpcomingMoviesProtocol"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8404F502-2F7D-43F3-858D-00BE6EC51D46"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "showUpcomingMovies(with:configuration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CA5800F2-9DFA-4D2C-94B3-F69B3A0EDDFA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "UpcomingMoviesPresenter"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "AEA78CD6-9B5A-4E8C-A3FC-B4EF0510A7EC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "showUpcomingMovies(with:configuration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "313576ED-5D2A-4FB5-973C-C3815514A24A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "showLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BF47A2C0-6D50-4122-B997-5DCA307C3A21"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "hideLoading()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "788236FD-CD82-4EA7-8BFE-111C34C21717"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "showError(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4F9A86B7-344D-4F09-A37A-1F107461A9B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesPresenter.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "43"
+            endingLineNumber = "43"
+            landmarkName = "buildViewModels(with:configuration:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "11E3D570-F09C-4900-9B9C-A4B9C8D4A1E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "78710686-75CC-4438-9FD3-A8B0B5FD19B5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "reloadTableViewData()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "839249C6-503E-4DEE-ADCF-230451C0FF39"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "72"
+            endingLineNumber = "72"
+            landmarkName = "getTMDBConfiguration()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8365D977-D472-451A-B92B-673570D688E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "7"
+            endingLineNumber = "7"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0369D153-4A32-4FC9-BFCC-E871E826EB67"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "injectDependencies(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FFD8F730-0D09-41A7-B691-8F2B250A9B91"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "injectDependencies(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "293631A3-F4D9-4A92-A94B-54C7D2C01046"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesConfigurator.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "injectDependencies(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "005E8F4C-C869-435F-A1F4-A3445C2B00A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "UpcomingMoviesInteractor"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "67F50231-2EC7-4686-8AA0-A65DB96355DB"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "UpcomingMoviesInteractor"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "955682FB-4A7A-457F-9F0D-5207176377FC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "26"
+            endingLineNumber = "26"
+            landmarkName = "UpcomingMoviesInteractor"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BFA0D94-2B42-4093-B27E-889F13C00DD1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "PresenterToViewUpcomingMoviesProtocol"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8ABA0835-EDF6-4A01-9375-82CA82423335"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "UpcomingMoviesInteractor"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8ABA0835-EDF6-4A01-9375-82CA82423335 - 95f6d7e88dfe4f3b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesInteractor.deinit"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "8ABA0835-EDF6-4A01-9375-82CA82423335 - fa57b77f41acce26"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesInteractor.__deallocating_deinit"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "8ABA0835-EDF6-4A01-9375-82CA82423335 - f954c1b5a38a2cc5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesInteractor.__allocating_init() -&gt; TechnicalChallenge.UpcomingMoviesInteractor"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "8ABA0835-EDF6-4A01-9375-82CA82423335 - a68b2fcc7201c74a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesInteractor.init() -&gt; TechnicalChallenge.UpcomingMoviesInteractor"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "24">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A0EC45A-8255-4170-A28E-612F3933320E"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Base/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A0EC45A-8255-4170-A28E-612F3933320E - 353c28dd8ed9d4b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "1A0EC45A-8255-4170-A28E-612F3933320E - 353c28dd8ed9d4e9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "27"
+                  endingLineNumber = "27"
+                  offsetFromSymbolStart = "91">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "ECB94A66-4965-4AA5-BDBC-17DF0B9F17A7"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Base/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "ECB94A66-4965-4AA5-BDBC-17DF0B9F17A7 - 353c28dd8ed9d4b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  uuid = "ECB94A66-4965-4AA5-BDBC-17DF0B9F17A7 - 353c28dd8ed9d4b6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "118">
+               </Location>
+               <Location
+                  uuid = "ECB94A66-4965-4AA5-BDBC-17DF0B9F17A7 - 4d5c3d09e5817443"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "28"
+                  endingLineNumber = "28"
+                  offsetFromSymbolStart = "78">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5307D6EA-89AB-4BE9-9798-1630A2336EE3"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Base/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5307D6EA-89AB-4BE9-9798-1630A2336EE3 - 4d5c3d09e58175e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "150">
+               </Location>
+               <Location
+                  uuid = "5307D6EA-89AB-4BE9-9798-1630A2336EE3 - 4d5c3d09e58175e0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "228">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F1654107-70CD-4BD3-8AE0-C6A2C4A6BFF2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Base/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "32"
+            endingLineNumber = "32"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "F1654107-70CD-4BD3-8AE0-C6A2C4A6BFF2 - 4d5c3d09e58175c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "170">
+               </Location>
+               <Location
+                  uuid = "F1654107-70CD-4BD3-8AE0-C6A2C4A6BFF2 - 4d5c3d09e58175c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "32"
+                  endingLineNumber = "32"
+                  offsetFromSymbolStart = "252">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1BBB06DF-7907-4245-AD46-E04986AC01E6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Base/BaseViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1BBB06DF-7907-4245-AD46-E04986AC01E6 - 4d5c3d09e5817564"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "262">
+               </Location>
+               <Location
+                  uuid = "1BBB06DF-7907-4245-AD46-E04986AC01E6 - 4d5c3d09e5817564"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.NetworkReachabilityManager.NetworkReachabilityStatus) -&gt; () in TechnicalChallenge.BaseViewController.viewDidLoad() -&gt; ()"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Base/BaseViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "292">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "UpcomingMoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - 949bd6a2316e9a2f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "31">
+               </Location>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - c4be3f0197c6bc7c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "47">
+               </Location>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - 3413116886aa1a91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.__ivar_destroyer"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - b062e16fc03aa3a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.__deallocating_deinit"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - c4be3f0197c6be2d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "163">
+               </Location>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - e22be8ad273b2236"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TechnicalChallenge.UpcomingMoviesViewController&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "25AD9507-B873-474F-B115-EBC7C170A2A1 - c663a7e4a19b7554"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TechnicalChallenge.UpcomingMoviesViewController&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "120">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2A816D19-2FEC-4AEA-A9FE-0FF81F1D88C5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "UpcomingMoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2A816D19-2FEC-4AEA-A9FE-0FF81F1D88C5 - 806083c0e9de783e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init() -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "238">
+               </Location>
+               <Location
+                  uuid = "2A816D19-2FEC-4AEA-A9FE-0FF81F1D88C5 - c663a7e4a19b742f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TechnicalChallenge.UpcomingMoviesViewController&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "256">
+               </Location>
+               <Location
+                  uuid = "2A816D19-2FEC-4AEA-A9FE-0FF81F1D88C5 - c4be3f0197c6bf56"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "297">
+               </Location>
+               <Location
+                  uuid = "2A816D19-2FEC-4AEA-A9FE-0FF81F1D88C5 - c663a7e4a19b742f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TechnicalChallenge.UpcomingMoviesViewController&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "22"
+                  endingLineNumber = "22"
+                  offsetFromSymbolStart = "254">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "212061B8-C69C-48D5-BD7E-43FEC1329212"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesModels.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "Response"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "716ED591-571B-412A-B820-0D0D1F025DED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesModels.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "Response"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2D971750-4564-4D84-86E3-711955C70622"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "UpcomingMoviesViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - 5df94feefa85fdf8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.interactor.getter : Swift.Optional&lt;TechnicalChallenge.ViewToInteractorUpcomingMoviesProtocol&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "23">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - 1f0b19b07d1a25ec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.interactor.setter : Swift.Optional&lt;TechnicalChallenge.ViewToInteractorUpcomingMoviesProtocol&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "35">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - f3cf909bd410fd72"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.interactor.modify : Swift.Optional&lt;TechnicalChallenge.ViewToInteractorUpcomingMoviesProtocol&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - 8373692e9430f93f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.interactor.modify : Swift.Optional&lt;TechnicalChallenge.ViewToInteractorUpcomingMoviesProtocol&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "15">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - 806083c0e9de799b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init() -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "147">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - c663a7e4a19b758a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TechnicalChallenge.UpcomingMoviesViewController&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "165">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - c4be3f0197c6bef3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; TechnicalChallenge.UpcomingMoviesViewController"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "206">
+               </Location>
+               <Location
+                  uuid = "2D971750-4564-4D84-86E3-711955C70622 - c663a7e4a19b758a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "TechnicalChallenge.UpcomingMoviesViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;TechnicalChallenge.UpcomingMoviesViewController&gt;"
+                  moduleName = "TechnicalChallenge"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/lpurizaga/Documents/TechnicalChallenge/TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "163">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "36CBD972-1306-4482-951C-797E8A9AB984"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TechnicalChallenge/Scenes/UpComingMovies/UpcomingMoviesViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
    </Breakpoints>
 </Bucket>

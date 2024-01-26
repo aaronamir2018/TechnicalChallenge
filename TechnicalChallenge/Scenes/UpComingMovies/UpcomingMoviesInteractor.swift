@@ -18,16 +18,11 @@ protocol DataStoreUpcomingMoviesProtocol {
 }
 
 final class UpcomingMoviesInteractor: DataStoreUpcomingMoviesProtocol {
-    
-    // MARK: - Public Variable
-    
     var presenter: InteractorToPresenterUpcomingMoviesProtocol?
     var networkWorker: InteractorToNetworkWorkerUpcomingMoviesProtocol?
     var moviesResponse: UpcomingMovies.GetMovies.Response?
     var configurationResponse: UpcomingMovies.GetTMDBConfiguration.Response?
-    
-    // MARK: - Private Variable
-    
+        
     private let waitingToStartGroup = DispatchGroup()
 }
 

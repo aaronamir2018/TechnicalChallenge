@@ -19,6 +19,7 @@ final class UpcomingMoviesConfigurator {
         interactor.presenter = presenter
         interactor.networkWorker = networkWorker
         
-        presenter.view = viewController
+        
+         presenter.view = viewController
     }
 }

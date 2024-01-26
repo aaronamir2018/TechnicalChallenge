@@ -45,6 +45,22 @@
 		B0694F082B631FDD0013DEE2 /* UpcomingMovieCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F072B631FDD0013DEE2 /* UpcomingMovieCell.swift */; };
 		B0694F0A2B63212A0013DEE2 /* UpcomingMovies.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0694F092B63212A0013DEE2 /* UpcomingMovies.storyboard */; };
 		B0694F0C2B63232B0013DEE2 /* UpcomingMovieCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = B0694F0B2B63232B0013DEE2 /* UpcomingMovieCell.xib */; };
+		B0694F0E2B643AE80013DEE2 /* LoginMovies.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0694F0D2B643AE70013DEE2 /* LoginMovies.storyboard */; };
+		B0694F122B643F280013DEE2 /* LoginMoviewInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F112B643F280013DEE2 /* LoginMoviewInteractor.swift */; };
+		B0694F142B643F380013DEE2 /* LoginMoviesPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F132B643F380013DEE2 /* LoginMoviesPresenter.swift */; };
+		B0694F162B643F420013DEE2 /* LoginMoviesRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F152B643F420013DEE2 /* LoginMoviesRouter.swift */; };
+		B0694F182B643F510013DEE2 /* LoginMoviesNetworkWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F172B643F510013DEE2 /* LoginMoviesNetworkWorker.swift */; };
+		B0694F1A2B643F710013DEE2 /* LoginMoviesConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F192B643F710013DEE2 /* LoginMoviesConfigurator.swift */; };
+		B0694F1D2B6443400013DEE2 /* DetailMovies.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B0694F1C2B6443400013DEE2 /* DetailMovies.storyboard */; };
+		B0694F212B64436A0013DEE2 /* DetailMoviesInteractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F202B64436A0013DEE2 /* DetailMoviesInteractor.swift */; };
+		B0694F232B64437D0013DEE2 /* DetailMoviesPresenter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F222B64437D0013DEE2 /* DetailMoviesPresenter.swift */; };
+		B0694F252B64438B0013DEE2 /* DetailMoviesRouter.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F242B64438B0013DEE2 /* DetailMoviesRouter.swift */; };
+		B0694F272B64439C0013DEE2 /* DetailMoviesNetworkWorker.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F262B64439C0013DEE2 /* DetailMoviesNetworkWorker.swift */; };
+		B0694F292B6443B80013DEE2 /* DetailMoviesConfigurator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F282B6443B80013DEE2 /* DetailMoviesConfigurator.swift */; };
+		B0694F2B2B6444C50013DEE2 /* DetailMoviesModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F2A2B6444C50013DEE2 /* DetailMoviesModels.swift */; };
+		B0694F2D2B6445190013DEE2 /* LoginMoviesModels.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F2C2B6445190013DEE2 /* LoginMoviesModels.swift */; };
+		B0694F2F2B644CE30013DEE2 /* DetailMoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F2E2B644CE30013DEE2 /* DetailMoviesViewController.swift */; };
+		B0694F312B644D080013DEE2 /* LoginMoviesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B0694F302B644D080013DEE2 /* LoginMoviesViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -81,6 +97,22 @@
 		B0694F072B631FDD0013DEE2 /* UpcomingMovieCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UpcomingMovieCell.swift; sourceTree = "<group>"; };
 		B0694F092B63212A0013DEE2 /* UpcomingMovies.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = UpcomingMovies.storyboard; sourceTree = "<group>"; };
 		B0694F0B2B63232B0013DEE2 /* UpcomingMovieCell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = UpcomingMovieCell.xib; sourceTree = "<group>"; };
+		B0694F0D2B643AE70013DEE2 /* LoginMovies.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = LoginMovies.storyboard; sourceTree = "<group>"; };
+		B0694F112B643F280013DEE2 /* LoginMoviewInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviewInteractor.swift; sourceTree = "<group>"; };
+		B0694F132B643F380013DEE2 /* LoginMoviesPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviesPresenter.swift; sourceTree = "<group>"; };
+		B0694F152B643F420013DEE2 /* LoginMoviesRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviesRouter.swift; sourceTree = "<group>"; };
+		B0694F172B643F510013DEE2 /* LoginMoviesNetworkWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviesNetworkWorker.swift; sourceTree = "<group>"; };
+		B0694F192B643F710013DEE2 /* LoginMoviesConfigurator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviesConfigurator.swift; sourceTree = "<group>"; };
+		B0694F1C2B6443400013DEE2 /* DetailMovies.storyboard */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; path = DetailMovies.storyboard; sourceTree = "<group>"; };
+		B0694F202B64436A0013DEE2 /* DetailMoviesInteractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesInteractor.swift; sourceTree = "<group>"; };
+		B0694F222B64437D0013DEE2 /* DetailMoviesPresenter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesPresenter.swift; sourceTree = "<group>"; };
+		B0694F242B64438B0013DEE2 /* DetailMoviesRouter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesRouter.swift; sourceTree = "<group>"; };
+		B0694F262B64439C0013DEE2 /* DetailMoviesNetworkWorker.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesNetworkWorker.swift; sourceTree = "<group>"; };
+		B0694F282B6443B80013DEE2 /* DetailMoviesConfigurator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesConfigurator.swift; sourceTree = "<group>"; };
+		B0694F2A2B6444C50013DEE2 /* DetailMoviesModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesModels.swift; sourceTree = "<group>"; };
+		B0694F2C2B6445190013DEE2 /* LoginMoviesModels.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviesModels.swift; sourceTree = "<group>"; };
+		B0694F2E2B644CE30013DEE2 /* DetailMoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailMoviesViewController.swift; sourceTree = "<group>"; };
+		B0694F302B644D080013DEE2 /* LoginMoviesViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginMoviesViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -146,6 +178,7 @@
 		B0694ECB2B6307130013DEE2 /* Scenes */ = {
 			isa = PBXGroup;
 			children = (
+				B0694F1B2B64432A0013DEE2 /* DetailMovies */,
 				B0694EFD2B631BFE0013DEE2 /* LoginMovies */,
 				B0694ECC2B63075F0013DEE2 /* UpComingMovies */,
 			);
@@ -215,6 +248,14 @@
 		B0694EFD2B631BFE0013DEE2 /* LoginMovies */ = {
 			isa = PBXGroup;
 			children = (
+				B0694F2C2B6445190013DEE2 /* LoginMoviesModels.swift */,
+				B0694F192B643F710013DEE2 /* LoginMoviesConfigurator.swift */,
+				B0694F302B644D080013DEE2 /* LoginMoviesViewController.swift */,
+				B0694F112B643F280013DEE2 /* LoginMoviewInteractor.swift */,
+				B0694F132B643F380013DEE2 /* LoginMoviesPresenter.swift */,
+				B0694F152B643F420013DEE2 /* LoginMoviesRouter.swift */,
+				B0694F172B643F510013DEE2 /* LoginMoviesNetworkWorker.swift */,
+				B0694F0D2B643AE70013DEE2 /* LoginMovies.storyboard */,
 			);
 			path = LoginMovies;
 			sourceTree = "<group>";
@@ -226,6 +267,21 @@
 				B0694F0B2B63232B0013DEE2 /* UpcomingMovieCell.xib */,
 			);
 			path = Cell;
+			sourceTree = "<group>";
+		};
+		B0694F1B2B64432A0013DEE2 /* DetailMovies */ = {
+			isa = PBXGroup;
+			children = (
+				B0694F2A2B6444C50013DEE2 /* DetailMoviesModels.swift */,
+				B0694F282B6443B80013DEE2 /* DetailMoviesConfigurator.swift */,
+				B0694F2E2B644CE30013DEE2 /* DetailMoviesViewController.swift */,
+				B0694F202B64436A0013DEE2 /* DetailMoviesInteractor.swift */,
+				B0694F222B64437D0013DEE2 /* DetailMoviesPresenter.swift */,
+				B0694F242B64438B0013DEE2 /* DetailMoviesRouter.swift */,
+				B0694F262B64439C0013DEE2 /* DetailMoviesNetworkWorker.swift */,
+				B0694F1C2B6443400013DEE2 /* DetailMovies.storyboard */,
+			);
+			path = DetailMovies;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -304,6 +360,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0694F0C2B63232B0013DEE2 /* UpcomingMovieCell.xib in Resources */,
+				B0694F0E2B643AE80013DEE2 /* LoginMovies.storyboard in Resources */,
+				B0694F1D2B6443400013DEE2 /* DetailMovies.storyboard in Resources */,
 				B0694EA82B619C760013DEE2 /* LaunchScreen.storyboard in Resources */,
 				B0694F0A2B63212A0013DEE2 /* UpcomingMovies.storyboard in Resources */,
 				B0694EA52B619C760013DEE2 /* Assets.xcassets in Resources */,
@@ -318,6 +376,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				B0694EF82B631A790013DEE2 /* UIView+Extensions.swift in Sources */,
+				B0694F2D2B6445190013DEE2 /* LoginMoviesModels.swift in Sources */,
+				B0694F2F2B644CE30013DEE2 /* DetailMoviesViewController.swift in Sources */,
 				B0694ED22B6308A80013DEE2 /* TMDBConfiguration.swift in Sources */,
 				B0694EDA2B63143F0013DEE2 /* BaseView.swift in Sources */,
 				B0694EEF2B6319850013DEE2 /* UIApplication+Extensions.swift in Sources */,
@@ -325,22 +385,34 @@
 				B0694EFF2B631CB20013DEE2 /* UpcomingMoviesInteractor.swift in Sources */,
 				B0694F012B631D840013DEE2 /* UpcomingMoviesPresenter.swift in Sources */,
 				B0694EE32B6315CE0013DEE2 /* BaseNetworking.swift in Sources */,
+				B0694F182B643F510013DEE2 /* LoginMoviesNetworkWorker.swift in Sources */,
 				B0694EDF2B6314C40013DEE2 /* NetworkingConstant.swift in Sources */,
 				B0694EFA2B631AE10013DEE2 /* UIViewController+Extensions.swift in Sources */,
+				B0694F142B643F380013DEE2 /* LoginMoviesPresenter.swift in Sources */,
 				B0694ED82B6313BD0013DEE2 /* UpcomingMoviesViewController.swift in Sources */,
 				B0694F052B631EB40013DEE2 /* UpcomingMoviesNetworkWorker.swift in Sources */,
 				B0694EEB2B6319250013DEE2 /* Optional+Extensions.swift in Sources */,
 				B0694EE52B6317560013DEE2 /* BaseViewController.swift in Sources */,
 				B0694ED02B63085C0013DEE2 /* MovieNetworkingConfiguration.swift in Sources */,
+				B0694F212B64436A0013DEE2 /* DetailMoviesInteractor.swift in Sources */,
 				B0694EF12B6319B30013DEE2 /* UIImageView+Kingfisher.swift in Sources */,
 				B0694EE12B6315A30013DEE2 /* Configuration.swift in Sources */,
+				B0694F252B64438B0013DEE2 /* DetailMoviesRouter.swift in Sources */,
 				B0694F082B631FDD0013DEE2 /* UpcomingMovieCell.swift in Sources */,
 				B0694ED62B63135C0013DEE2 /* UpcomingMoviesConfigurator.swift in Sources */,
+				B0694F122B643F280013DEE2 /* LoginMoviewInteractor.swift in Sources */,
 				B0694ED42B63129F0013DEE2 /* UpcomingMoviesModels.swift in Sources */,
+				B0694F292B6443B80013DEE2 /* DetailMoviesConfigurator.swift in Sources */,
 				B0694EC82B62F72D0013DEE2 /* DetailMovie.swift in Sources */,
+				B0694F2B2B6444C50013DEE2 /* DetailMoviesModels.swift in Sources */,
+				B0694F272B64439C0013DEE2 /* DetailMoviesNetworkWorker.swift in Sources */,
 				B0694EED2B63193A0013DEE2 /* String+Extensions.swift in Sources */,
+				B0694F232B64437D0013DEE2 /* DetailMoviesPresenter.swift in Sources */,
 				B0694EF62B631A5D0013DEE2 /* UITableView+Extensions.swift in Sources */,
 				B0694EA32B619C740013DEE2 /* TechnicalChallenge.xcdatamodeld in Sources */,
+				B0694F1A2B643F710013DEE2 /* LoginMoviesConfigurator.swift in Sources */,
+				B0694F312B644D080013DEE2 /* LoginMoviesViewController.swift in Sources */,
+				B0694F162B643F420013DEE2 /* LoginMoviesRouter.swift in Sources */,
 				B0694E992B619C740013DEE2 /* AppDelegate.swift in Sources */,
 				B0694EDD2B6314900013DEE2 /* Logger.swift in Sources */,
 				B0694E9B2B619C740013DEE2 /* SceneDelegate.swift in Sources */,
@@ -492,7 +564,7 @@
 				INFOPLIST_FILE = TechnicalChallenge/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = UpcomingMovies;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -520,7 +592,7 @@
 				INFOPLIST_FILE = TechnicalChallenge/Info.plist;
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
-				INFOPLIST_KEY_UIMainStoryboardFile = Main;
+				INFOPLIST_KEY_UIMainStoryboardFile = UpcomingMovies;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
 				LD_RUNPATH_SEARCH_PATHS = (

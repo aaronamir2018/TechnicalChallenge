@@ -36,8 +36,6 @@ class BaseView: UIView {
     }
 }
 
-// MARK: - Private
-
 private extension BaseView {
     
     func setupNib() {
