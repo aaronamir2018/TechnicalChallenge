@@ -2,18 +2,34 @@
 //  LoginMoviesRouter.swift
 //  TechnicalChallenge
 //
-//  Created by Luis Purizaga on 26/01/24.
+//  Created by Aaron Cordero on 26/01/24.
 //
 
-import UIKit
+import Foundation
 
-protocol LoginMoviesRoutingLogic {
-    func routeToNextScreen(segue: UIStoryboardSegue?)
+protocol LoginMoviesRouterProtocol {
+    func goToListMovies()
+    func showError(title: String, message: String)
 }
 
-class LoginMoviesRouter: NSObject, LoginMoviesRoutingLogic {
-    weak var viewController: UpcomingMoviesViewController?
+class LoginMoviesRouter {
+    private weak var loginMoviesProtocol: LoginMoviesViewProtocol!
     
-    func routeToNextScreen(segue: UIStoryboardSegue?) {
+    init(withView view: LoginMoviesViewProtocol) {
+        self.loginMoviesProtocol = view
+    }
+}
+
+extension LoginMoviesRouter: LoginMoviesRouterProtocol {
+    func goToListMovies() {
+        let viewController = self.loginMoviesProtocol as! LoginMoviesViewController
+        let segueTo = Build.toListMovies()
+        viewController.navigationController?.pushViewController(segueTo, animated: true)
+    }
+    
+    func showError(title: String, message: String) {
+        let alertVC = Alerts.showAlert(title: title, message: message)
+        let viewController = self.loginMoviesProtocol as! LoginMoviesViewController
+        viewController.present(alertVC, animated: true, completion: nil)
     }
 }

@@ -28,24 +28,6 @@
       }
     },
     {
-      "identity" : "reachability.swift",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/ashleymills/Reachability.swift",
-      "state" : {
-        "branch" : "master",
-        "revision" : "c01127cb51f591045696128effe43c16840d08bf"
-      }
-    },
-    {
-      "identity" : "sdwebimage",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SDWebImage/SDWebImage.git",
-      "state" : {
-        "revision" : "59730af512c06fb569c119d737df4c1c499e001d",
-        "version" : "5.18.10"
-      }
-    },
-    {
       "identity" : "svprogresshud",
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/SVProgressHUD/SVProgressHUD.git",

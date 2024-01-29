@@ -2,40 +2,57 @@
 //  LoginMoviesViewController.swift
 //  TechnicalChallenge
 //
-//  Created by Luis Purizaga on 26/01/24.
+//  Created by Aaron Cordero on 26/01/24.
 //
 
 import UIKit
 
-protocol LoginMoviesDisplayLogic: AnyObject {
-    func displayUser(viewModel: Login.Login.ViewModelSuccess)
-    func displayFailure(viewModel: Login.Login.ViewModelFailure)
+protocol LoginMoviesViewProtocol: AnyObject {
+    func showListMovies()
+    func showAlert(title:String?, message: String?)
 }
 
-final class LoginMoviesViewController: UIViewController, LoginMoviesDisplayLogic  {
+final class LoginMoviesViewController: UIViewController {
     @IBOutlet weak var userTextField: UITextField!
     @IBOutlet weak var passwordTextField: UITextField!
     @IBOutlet weak var btnLogin: UIButton!
     
-    var interactor: LoginMoviesBusinessLogic?
-    var router: (NSObjectProtocol & LoginMoviesRoutingLogic)?
+    var presenter: LoginMoviesPresenterProtocol?
+    var configurator: LoginMoviesConfiguratorProtocol?
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        self.configurator = LoginMoviesConfigurator()
+        configurator?.configureMovies(viewController: self)
+        
+        self.setupView()
     }
-    
-    func displayUser(viewModel: Login.Login.ViewModelSuccess) {
-    }
-    
-    func displayFailure(viewModel: Login.Login.ViewModelFailure) {
-    }
-    
+}
 
+extension LoginMoviesViewController {
+    func setupView() {
+        view.addGestureRecognizer(UITapGestureRecognizer(target: self, action: #selector(handleViewTap)))
+        view.isUserInteractionEnabled = true
+        
+        passwordTextField.isSecureTextEntry = true
+    }
+    
+    @objc func handleViewTap() {
+        view.endEditing(true)
+    }
+    
     @IBAction func pressLogin(_ sender: Any) {
-        if userTextField.text == "Admin" && passwordTextField.text == "Password*123" {
-            print("ENTRO")
-        } else {
-            print("No entro")
-        }
+        self.presenter?.goValidateUser(userName: self.userTextField.text, password: self.passwordTextField.text)
+    }
+}
+
+extension LoginMoviesViewController: LoginMoviesViewProtocol {
+    func showListMovies() {
+        self.presenter?.goToListMovies()
+    }
+    
+    func showAlert(title: String?, message: String?) {
+        self.presenter?.goToShowError(title: title ?? "", message: message ?? "")
     }
 }

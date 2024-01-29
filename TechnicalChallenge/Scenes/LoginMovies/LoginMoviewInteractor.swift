@@ -2,19 +2,26 @@
 //  LoginMoviewInteractor.swift
 //  TechnicalChallenge
 //
-//  Created by Luis Purizaga on 26/01/24.
+//  Created by Aaron Cordero on 26/01/24.
 //
 
 import UIKit
 
-protocol LoginMoviesBusinessLogic {
-    func login(request: Login.Login.Request)
+protocol LoginMoviesInteractorProtocol {
+    func getValidation(userRequest: UserRequest) -> Bool
 }
  
-class LoginMovieInteractor: LoginMoviesBusinessLogic {
-    var presenter: LoginMoviesPresentationLogic?
-
-    func login(request: Login.Login.Request) {
-
+class LoginMoviesInteractor: LoginMoviesInteractorProtocol {
+    func getValidation(userRequest: UserRequest) -> Bool {
+        let userData = UserModel()
+        if userRequest.userName != userData.userName {
+            return false
+        }
+        
+        if userRequest.password != userData.password {
+            return false
+        }
+        
+        return true
     }
 }
